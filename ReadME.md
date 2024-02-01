@@ -1,6 +1,7 @@
-# File Type MarkDown (.md)
+# JavaScript - File Type MarkDown (.md)
 
-Notes About All The Codes & Services Used
+- I'm Learning Javascript , React , Vue, Svelte & Node.
+- Notes About All The Codes & Services Which are used are \\/
 
 ## Downloaded Extension
 
